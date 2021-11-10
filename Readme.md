@@ -4,7 +4,7 @@
 
 ---
 
-![](readme.assets\1.png)
+![](readme.assets\1.PNG)
 
 ## 🏃‍♂️역할 분담
 
